@@ -1,6 +1,6 @@
 {
-    "name": "mukadi/doctrine-crud",
-    "description": "It's simple CRUD Helper for Doctrine Managed entities.",
+    "name": "tlorens/doctrine-crud",
+    "description": "Forked. Do not use.  Another lonely, lost package with no love. It's a simple CRUD Helper for Doctrine Managed entities.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
-        "doctrine/common": "^2.7.1"
+        "php": "^7.4",
+        "doctrine/common": "^3.0"
     },
     "autoload": {
         "psr-4": {
